@@ -1,4 +1,4 @@
-# Chuwu PR OS
+# Chuwu PR OS03
 
 这是初五的 PR 判断与执行 Skill 包。
 
@@ -31,15 +31,6 @@ Chuwu PR OS 不是资料库，也不是通用 Prompt 集合。
 ## OS03 的主要变化
 
 `chuwu-pr-OS03` 只保留 PR 判断与执行相关 Skill。
-
-上一版中的输入处理和视觉输出能力已从本仓库移除，因为它们是工具型能力，不属于 PR Skills 的核心范围。
-
-已移除：
-
-- `wechat-article-batch-extractor`
-- `xiaoyuzhou-live-extractor`
-- `frontend-slides`
-- `social-card-production`
 
 ### 1. 正式判断中枢
 
