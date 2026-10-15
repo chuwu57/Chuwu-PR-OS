@@ -1,0 +1,1142 @@
+[
+  {
+    "path": "Domains/PR/15-Theory/00_Problem-Chains/README.md",
+    "source_sha256": "71a62a5bcea6aac020fc2f55d3af529b3c74a718bd4405db1d77c08889184459",
+    "distribution_sha256": "524c055e9f8c5570c16995ce0c0caed481fd24eb98f448da366ffb5538004071",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/00_Problem-Chains/一个事件如何成为公共议题.md",
+    "source_sha256": "0e1f92838d1380f4db1c198330bb8123278702036bddd81163b1956f791da63a",
+    "distribution_sha256": "167e7003d0eb1b4d96e0dc1cf0cefd863ff675ff3018e4b4774b6271a5b48e30",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/00_Problem-Chains/个体不满如何升级为跨圈传播与集体行动.md",
+    "source_sha256": "bb8bdb6bf5908a2e0c57e54a21d284525559a78f5ff70b8ed484f96f5f438fdc",
+    "distribution_sha256": "015decc3ff3ab3b5dd8fead6c4642d6f7dcfcad9bb756a5dd8f87b0a83b60b55",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/00_Problem-Chains/公众为什么不相信企业.md",
+    "source_sha256": "406c53ad04b840bcc92882a6e7754d8f37582345b4574c9b7dd0be7154344d2c",
+    "distribution_sha256": "d913a8730c5b7af6722f9315c5bb977cff0a6e2881702fb294aeea3c81f7ab5a",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/00_Problem-Chains/危机之后什么能够修复信任与合法性.md",
+    "source_sha256": "b2602252a4a196636beb80335be2249e417dcafd97495e592bbc11329c2921aa",
+    "distribution_sha256": "33ff551f53fa12673fedaef72f2903e53a0281a2424bc8dbc048536e01c17b1d",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/00_Problem-Chains/品牌表达为什么触发身份与尊严冲突.md",
+    "source_sha256": "4f617f0ff7d3df7b36367b0b027c8a997ab2225fc14f16673c7d033a0dd93613",
+    "distribution_sha256": "cc093887b2456e332be1adac7d8c54653ddad36c689131584315c1123460deb2",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/00_Problem-Chains/正确事实为什么仍无法消除争议.md",
+    "source_sha256": "d1d5e64b258d23c00110436c968cd930efc4dc844be3f3e27b78d8af193ae766",
+    "distribution_sha256": "9d44057267c44730a72e96f4392e00df20c7d9d65a38bc05b169dbb664c3d92d",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Communication/00_MOC/传播理论到PR判断.md",
+    "source_sha256": "f791c642da03c2166f7e0719dd63ac1cad8bfcad4014c72a76f5b4eca09ffa08",
+    "distribution_sha256": "47878eebb7125a0b93367d9b84ac9c6aeea8d4cda549e317d85f6a4dc8e8112c",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Communication/10_Attention-and-Meaning/Theory_Agenda-Dynamics.md",
+    "source_sha256": "655e77fa70099657e2113459798edfda9153654100cd082b0f58c80f21f98f4a",
+    "distribution_sha256": "910618ffa696689f3d7840badabebe3b0f603cc31d882d97edbb6db7a05894a1",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Communication/10_Attention-and-Meaning/Theory_Framing-Production-and-Reception.md",
+    "source_sha256": "579d5e4e6e552bad365c00c629048d3638de43f37cd361466909e900c9d2cd8a",
+    "distribution_sha256": "387881224b7170c482ba0cc57b7589fbf0ec71d32ab4cea0ed1dceda32e52079",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Communication/20_Media-and-Platforms/Theory_Mediatization-Platformization-and-Algorithmic-Visibility.md",
+    "source_sha256": "5f9e3ea653424c0955724a901d5f78ca0f2242e7f9ee416ca315eb63e69d8a43",
+    "distribution_sha256": "d6610cd4c4509aec3413923e3eaef368a98b6cd19e923b9402cf7e68de648f4d",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Communication/20_Media-and-Platforms/Theory_News-Production-and-Distributed-Gatekeeping.md",
+    "source_sha256": "23c57402199d61093ee6da2d699723378bb03b1744b619855687f176afb49260",
+    "distribution_sha256": "5d383f890954785039f2f7d4d08f53b4d60ef63c47863c677564013ce00bca88",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Communication/30_Publics-and-Relationships/Theory_Organization-Public-Relationships-and-Dialogue.md",
+    "source_sha256": "23388c4f0dbf5d7a5f118f24c6f341b8fb0ae91f2f413983465fec121111bb7f",
+    "distribution_sha256": "1bfe1ee5f8c54232c56af4f95d2ffb1b3743cd95577f76113e2c0267e721ad5e",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Communication/30_Publics-and-Relationships/Theory_Public-Formation-and-Communicative-Action.md",
+    "source_sha256": "d8c17f3c76e9856866e4a4b2304082cd53ffd6f1d5f06d9c6cf334f4f2ba72e9",
+    "distribution_sha256": "f0646916412e6a9b7a7778aecb82d56c523796e125afef9e00918bf333062cc7",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Communication/40_Crisis-and-Risk/Theory_Crisis-Responsibility-Sources-and-Rhetorical-Arenas.md",
+    "source_sha256": "7a0d15aefec8cdb5b0f9e2315d5f527f5546e8978fd9320025ff80d63d699fca",
+    "distribution_sha256": "e04a6db3c2276afaba087b62f34ae48f02e93ef604dc0c31446f765f2c99ac25",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Communication/40_Crisis-and-Risk/Theory_Risk-Amplification-and-Information-Seeking.md",
+    "source_sha256": "f9f24bd3cbc9cc6bdc32ef23bd4c33f7edb0dc97ec433c94cc7c5477258ba0ff",
+    "distribution_sha256": "acbeb4a974a249a1db212a3e9964101f28d165e77cfe76dc0379218b15f56b35",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Communication/50_Diffusion/Theory_Network-Diffusion-Opinion-Leadership-and-Adoption.md",
+    "source_sha256": "6da5991a24b18d59ea54a8d4a7a935f32b788e001a2ca097b4ce6a78ced089ef",
+    "distribution_sha256": "7017eaa07df4ca6364f4cfa5ee2207f3c6cadc6d5e337fd6e9573752b249f40a",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Psychology/00_MOC/心理理论到PR判断.md",
+    "source_sha256": "d062b1a5d2e0158e95e73b5faf05b65f6ee885e602c196ff407f7553e3ad1eba",
+    "distribution_sha256": "902924eb3e1de06417407e9196ec949f35d0b2c610d8a8172b722f90c964be41",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Psychology/10-Attention-and-Limited-Capacity/有限注意与工作记忆.md",
+    "source_sha256": "3d7ff2a52347cbacd53629bdc8e21c643f46522f85b79b25232afba3163b1f3f",
+    "distribution_sha256": "0a211b73b4d51b836dafe9e70ab7068567bed23f65e1229184ac4632d5315770",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Psychology/20-Comprehension-and-Gist/情境模型与要旨表征.md",
+    "source_sha256": "79be45d501c53878f8c6580dfd5444bf8bf2540af7ab70d533a0123e80601873",
+    "distribution_sha256": "86ebfe3c2da1770f93598971fb3f8be70d491d3c7dc592c489e9e77cd78db909",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Psychology/30-Attribution-and-Blame/责任归因与责难形成.md",
+    "source_sha256": "76dde779647f6f2ce7c55071991ef7411bdd16312e808e83ef0cb080f97d262a",
+    "distribution_sha256": "c4c510862016ed584415c29bd9686ba4451a3fc8ecea79d4b7db06e42db7e152",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Psychology/40-Trust-and-Repair/信任可信度与修复.md",
+    "source_sha256": "6b5d879d66a31b15768bb0a8c4609bcc5a41b16a297cf4197bb5478fccf93ae5",
+    "distribution_sha256": "c9df3d5a8cde3ab34afaa70a46f98850d5b6d92d59414e8eae62c9055fd59cfc",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Psychology/50-Emotion-and-Appraisal/情绪评价与行动倾向.md",
+    "source_sha256": "7536ff0e7146d06a6d14319ebadc6e9a41968b5b67cd8a697304e9bc6fc9d200",
+    "distribution_sha256": "31b01755b16347837c0e21d9bc080bf8c71a4ba916930b8e16d695a445a8f64d",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Psychology/60-Identity-and-Motivated-Cognition/社会认同与动机性认知.md",
+    "source_sha256": "07442aeb1463e03f70e189f9a2adc99b55e23b439b7e1ac36a4cedd838b7272e",
+    "distribution_sha256": "5405d9ee05fb16c491dc2f9c4bf0f51883ea74d8a83022b28fb519f179f88569",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Psychology/70-Persuasion-and-Resistance/说服加工与心理抗拒.md",
+    "source_sha256": "129f4c94c7870d42ba872c26a43228e1583b880978210405c257a5715e20d504",
+    "distribution_sha256": "4b6a8e3f0bab311b0a669cb5bcd7f220e74cc310a536ca6d6bae3abb1e15396c",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Psychology/80-Misinformation-and-Correction/错误信息记忆纠错与预防.md",
+    "source_sha256": "c4a675588791689a28c0acb4b6afe24b0823e63906c9882977ff3ef01b9194bb",
+    "distribution_sha256": "58b87618493042484e2764ed5b078c0571c9daf7be61f2a5c3b603329cc21acf",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Psychology/90-Intention-and-Action/个体风险与集体行动.md",
+    "source_sha256": "b4f380c64c7794f63ace31112776b0beb937d4b3016b6dffddf37fc7b98e358f",
+    "distribution_sha256": "e92c4576e58e49ed1fe6c36de5bd515aba12c32a39194dd2812de90e9d9542ed",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Sociology/00_MOC/社会理论到PR判断.md",
+    "source_sha256": "eb6c922bd8e31150e040dfc54d5a4d06dbf89d3242b73cb42dbeea98052c4242",
+    "distribution_sha256": "3b7a8555ace363d67e2f68caffdc83948a24f0c199a7b9738cc45b4ff9f499a0",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Sociology/10_制度合法性如何形成失去与修复.md",
+    "source_sha256": "5f459d0f4b397098d91eda287a206ab2d7d39515dd4b3d0bca93d4206923ed67",
+    "distribution_sha256": "465d0ab7c49678f867b865508ffc393f214bce21f5ec33faf67ba8a314185edb",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Sociology/20_谁有权定义问题与正当答案.md",
+    "source_sha256": "cf0022da652f3a47e1884d85184bfa59edadabb2879729e5ca45ecb81b87054d",
+    "distribution_sha256": "732bfd2fdb81346351ca8c32b61d0885db7c34996814e12cf50b92ff3ef6d004",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Sociology/30_品味边界分类如何制造尊严与不平等.md",
+    "source_sha256": "245561c6ff4130056da4500c2d3e379ddd5fac2e2529fdaf481a05bfb685320e",
+    "distribution_sha256": "0053806bd1cb65ade41972024ecb7f3f89563a0d5008fc52a64008d0a0c33058",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Sociology/40_负面标签如何变成结构性伤害.md",
+    "source_sha256": "e092906ed36fd0c9ac60ca3e2700108d054e56c1a42ff0f1bdc72e1c976f1c7d",
+    "distribution_sha256": "44b640f4e99773a2803dbb4d0f4dec4969ff013d58cc4c4ec86c57d4cc9dc1f9",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Sociology/50_制度如何在一线被重新实现.md",
+    "source_sha256": "53e4711c41bfd093e8d74dba1a386fab3c1c03e07a03a70b680a8258dda9fcda",
+    "distribution_sha256": "2a4ac675d64f46b7d052a9b68168e0d848dd830daf1c92e4bbd2467d06a52af3",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Sociology/60_不确定性中公众为何接受或拒绝依赖.md",
+    "source_sha256": "f6a6988068f09b2fbe432f2d7e9a6966c4c6fc3ab2199be5a2af9966d9cc5ab6",
+    "distribution_sha256": "8243e4779a8d00546cfb61f84c8e1e6bdfe5ce247c29eb3a6a7b305d3d0e93cf",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Sociology/70_议题如何跨圈以及为何不能跨圈.md",
+    "source_sha256": "8a5060ee56d5a377387224140fcd7c53c057edf2d82e1f76eb866e32b60f8c92",
+    "distribution_sha256": "1636c4ec304076a730c8610d98a72e16a5d2a84fde772faa16e64f639b246298",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/15-Theory/Sociology/80_个案如何成为公共问题和集体行动.md",
+    "source_sha256": "806eb41e1ac336ac355581d602357c04b39b6a27824663d0a20d62674e75ae39",
+    "distribution_sha256": "26e52b00cd83204a6ca4dce6c4e3a9ddcfb1dde7d370bb7e527b5c9aa3af257c",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/30-Principles/Principle_Crisis-Action-Before-Narrative.md",
+    "source_sha256": "722b9c9bb82d9e5e803b9088a985d9e9d072a2e5b52c2a272ed6ef4977958b17",
+    "distribution_sha256": "21c4a7958680cd58afc8dd2c31113913b9476f2d38858706810818d0ac3cfb70",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/30-Principles/Principle_Internal-Operations-Are-Public-Reputation.md",
+    "source_sha256": "4668041bd2995466f3cfe884538f80db6ac12a8386e7fbd10d7d81549cd52468",
+    "distribution_sha256": "f67d18709064de30cfd6e2d472b7d00cbe40fddac9b76d5b2e008de85bd87614",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/30-Principles/Principle_PR-Amplifies-Reality.md",
+    "source_sha256": "d627cb13d7240cebfa2bf3dfb44c85fbfbc8fe7bc2a5c583a73a4ad0c9208708",
+    "distribution_sha256": "3b9334fa5fd8c6432528eea4a9f8cba547613ec8de641c2d5dcf0160aeefb3ae",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/30-Principles/Principle_PR-Is-Business-Judgment.md",
+    "source_sha256": "35b4dce353636706ab270b42e78ad80d8cf490efd131077c48435a847bbec35f",
+    "distribution_sha256": "00a96dd337344b8d34dd5d1126678c6d7765c311b5d794906e943d0a44231fdc",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/30-Principles/Principle_PR-Lowers-Trust-Cost.md",
+    "source_sha256": "35088be139b8cd3c6bd73546fd62067cc7c8a09399f572b3167f17f95d8dbe26",
+    "distribution_sha256": "80865b406d4a47c6e0c090ecbfcd70ded53e0800f14adf9465aa1d5bb7ae0f12",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/30-Principles/Principle_Public-Context-Overrides-Brand-Intent.md",
+    "source_sha256": "e228c12b2f3cbe3954f1bb73d7c70aabfc88b93ff21991bd9df847811be685f4",
+    "distribution_sha256": "30619e5f7b5b817c2c611e7972d3940d37e178eda120bf9b0a45c26f4551d240",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_AI-Product-Communication-Four-Accounts.md",
+    "source_sha256": "7e65893260467120272482b46323549d2b0893587a2dd7cc036be038253894cf",
+    "distribution_sha256": "b7f489b629b6f6296470c8952392a7fc8c533bcba06b19ea78d587a84cdc39aa",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_AI-Technical-Credibility-Evidence.md",
+    "source_sha256": "dea399bbb68c2618728879fa42f0f991e4846d871bbd4d5be04a16d76ad78c50",
+    "distribution_sha256": "a20d92778c34d61acf96764b28e86f717a09cdf9cefc493e7c7195b174bd67ad",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_CRI-5R-Crisis-Judgment.md",
+    "source_sha256": "76f64a41bbf7e284b3a6bed96fb15176b42aeef0face27d057003236794bee3f",
+    "distribution_sha256": "651945d346ac0b60a3d46384db8a45259ecc1e5b4aace77368572806cf36eee9",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Celebrity-Partnership-Conditions.md",
+    "source_sha256": "80b2b3edb09bf45691fa2ba7bed8c7c88d0b8648d750db1841c6aa9572156cff",
+    "distribution_sha256": "5d8dd49827111a98a0264fc4c894563afc1bd026b6f1e058dd44e452d56b7a83",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Consumer-Brand-Globalization-Local-Market-Judgment.md",
+    "source_sha256": "dcdef3273671140c8c2fb70a42fcecb95aaa3734ebcac288046e9070e44fc4a9",
+    "distribution_sha256": "f4190f95f32a1648436badd6473d25602d8ff8931e939221c2ee9adfbf649457",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Consumer-Product-Competitor-Research.md",
+    "source_sha256": "ecf65315b7c1a9c7426a45a784b4d34d3c7175cdfe7f26a49712e29024d980d5",
+    "distribution_sha256": "76d0abe95e749b605bed80637e4e15fc30982bcf44c9191633e1e370c390420f",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Content-Penetration-Loop.md",
+    "source_sha256": "6b6f5734e84ea37af400d351c3ff72c344159e25e567deb27d28b40d404618f1",
+    "distribution_sha256": "eeb4af4fda9f282af96a593abe5aa6310c6111876fbafaec53f37bcbdd1cbb56",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Crisis-Capability-Coordinates.md",
+    "source_sha256": "58727dbd6b9e1f5e927a44784802eacdf280d200eac2a266c564b8ab1f670a44",
+    "distribution_sha256": "51b7cce5c6fe33246cc1dc39efc0dcf0687e33039ceba5021680acc6b63e64a2",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Crisis-Emotion-High-Voltage.md",
+    "source_sha256": "9bfe5a21468e742f7e92f36a0b14192a0a0d3d6cf48bdf16d0004193cd593e64",
+    "distribution_sha256": "784695abfdd159c1777ec91b9dab13b628176347a301a612eecd604b7c62b6f1",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Cross-Cultural-Crisis-Observation.md",
+    "source_sha256": "c95cd27c7d62ce559b6abd3a4ce1b4b3762021119c60c1573d0422fade63fa88",
+    "distribution_sha256": "a97e019a435b4c4e851988c959bdbcc5d954e9bf54a68c9bb840788650e1649e",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Embodied-AI-Technical-Credibility-Evidence.md",
+    "source_sha256": "4d63e8ad272481fe91b43051c8ea99edc16449af50ddcccf3b35a902033b896d",
+    "distribution_sha256": "2d546f369146fe8a22b8811ae3ad33d123d5fa661febc41178585fcbf68033ef",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_External-Data-Crisis-Response.md",
+    "source_sha256": "5cf34064dcbab14b6d460f8b00ce4bff6ca6902c33dfe11e1cc43fc81413343a",
+    "distribution_sha256": "4e3d8306093998324a2631a411cada2d5d0c2d1a0b63173253e17ead5fc87a45",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_IECN-Annual-Communication-Strategy.md",
+    "source_sha256": "b81c964caa60a4e479561a0188bb64a0e190a70fb36a529aa7157e9a24dd0b05",
+    "distribution_sha256": "a9a28fe43898af3fc8feb35eccd9becad1f7cf050fe8364df37686bfaa8214bc",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Internal-Communication-Two-Way-Needs.md",
+    "source_sha256": "cb203b2e34ef8bbf2b2e4fdb8c7616981ed638dff65b1faacb02d9c015ab15a3",
+    "distribution_sha256": "676babdbf73f79effd0b6721aa09012286e745545fbed8fe213d6a4a57e1b202",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Media-Embargo-Exclusive-Rights.md",
+    "source_sha256": "77c7d0369b398cd03a0540f95afcf20bd7c15d2191612bf2cdf0288e4d6e1319",
+    "distribution_sha256": "80faed8613b5ed03d2d2ce4508e6dc76899ac2b4c4963f567c64cb74fc1eaaa6",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Media-Signal-Calibration.md",
+    "source_sha256": "5b6fd0bb8df448ff907e1d83d34425abbe0cee5dc9ce8b6a99c2774079cc8035",
+    "distribution_sha256": "a7faec91e34f76af1bb2f12c0a799e273270d5abf1d250b5bfea3c764a2d3726",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Media-Value-Exchange.md",
+    "source_sha256": "f6b0df8f2bb211bc8c5718cbfa99d144c9a8077c05260575292f247e008efe5d",
+    "distribution_sha256": "66ce1e48f72fb3af79e45903c41ea4253252179df9a74322f1dccde3fc67f1d6",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_PR-Asset-Four-Part.md",
+    "source_sha256": "d4dab57a7f5e263c1fe5fb0f9c5fdfd11b78e63cc8137b2600e7869113611472",
+    "distribution_sha256": "cc450d5855303f483fd81962ed7844bccbda3e476993ed07245b949567bddcca",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_PR-Business-Contribution-Metrics.md",
+    "source_sha256": "c29fe5ca768e153d97d982a6e0dd7d990ba40e19774400b9833c88b5c6c45dd2",
+    "distribution_sha256": "59d9ee9885855d412436b64281ab867ea45b02354c97f5d22578797b96a0b869",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_PR-Decision-Gate.md",
+    "source_sha256": "d64434ab76ccb6973ac8e31eaf86cdf78ef17dda78d2af605be12b9f002ba98f",
+    "distribution_sha256": "9ae5eee96e37239c597c1a81bc5fb87f2add27c62dd719c8f7799c31242b2671",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_PR-Frame-Diagnosis.md",
+    "source_sha256": "30f2efe66e024d44ef6c31048c3e6906e887623db5bb482e98324b38f1ce7e51",
+    "distribution_sha256": "ba45241b531c01e3dc671cfb03f0bfc06b44628c956bd7f4de186db0e8fc9621",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_PR-MKT-Value-Difference.md",
+    "source_sha256": "fe8bfdf5ffd02ea84a9821e834926deb5d5984e6c8bafdd0753cc4f65f830690",
+    "distribution_sha256": "bf623cc497da0c883fd9ede3c5c5f847c752c4962faed2585ce768d85d031614",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_PR-Narrative-Four-Variables.md",
+    "source_sha256": "64be3a9783b89501848f0485ae33e4ceb3a5405e8a756d056342c18fbd338434",
+    "distribution_sha256": "caf5e587daea8b8a32b9474b174f5d93f16a5b18912b3d8762dc36604ac02d57",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_PR-Output-Quality-Evaluation.md",
+    "source_sha256": "8416e2b94a0dce5d3f1740e7a585a140f8893ea2c464eb8ab7a0afa7d54e6b79",
+    "distribution_sha256": "a912a6075ad2faaa794f6728fd7aa7f29824d33f721ec0e6897d1d78c6a7e13b",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Platform-Propagation-Trust-Judgment.md",
+    "source_sha256": "4eabbef3d65f2419aa46e4b86e19a3b6a40a92fb4e523a7a58a7e8bde16a5be3",
+    "distribution_sha256": "03849edd896c3ec613f454239d14a1488aab5de2b33af24ddcf65bc1d653fb5e",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Public-Opinion-Format-Response.md",
+    "source_sha256": "4c830ac781c1ebac79e6e83c74ddc9089f0e7d5a1ded56470d079208b2e1fd02",
+    "distribution_sha256": "573ece35fad1b9fe075f29b8292dbdae7bcd71f189ee430c41339e54ddd421c2",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Public-Opinion-Level-Three-Dimensions.md",
+    "source_sha256": "bb6db82e62c2b5eef8cfb038434f01c16834d62db6612b236b2a97494245035f",
+    "distribution_sha256": "01c3aa18ebfb1448ef9c5037e2da3fd6221c12b84a57a83ab9ded16c24f24efc",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Risk-Management-Decompose-Recombine.md",
+    "source_sha256": "84c05fe822abe3284d47863856b141a6d226c7195775c6286d454277c13e2e93",
+    "distribution_sha256": "81b2d9ae52cd5fc853ec513e90046980d6525fbe6c1882407682e3531fae3e88",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_SCCT-Response-Matching.md",
+    "source_sha256": "a1d5e8ae83f9b7cb2282932426e3d7d0d959fa35f8b21808e610f84aa0dcfc03",
+    "distribution_sha256": "b37ae795b53f07ef8f39323192696e55b1938e4e644753ca7fe3712e57667535",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Single-Source-Layered-Voice.md",
+    "source_sha256": "5e1025cfa554a904bcc154084b103ccf1585ad66d00f5b59b626724e9a617601",
+    "distribution_sha256": "ea80d7a3df270d8c049af006f4398e8577c49e5a5c7e66cd4281c8d5bf9d0587",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Technology-Communication-Translation.md",
+    "source_sha256": "97a5d31bddea010803bf2126963412ffe70529342cb4cc2dd85bebfe9d2c46c4",
+    "distribution_sha256": "02720fd0c60496c6d40f3eadba9f26e95f771de9a2b1759634ffcd75c194ece2",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_User-Mobilization-Escalation.md",
+    "source_sha256": "2e17a7d67e3268e57f5de5e5d60c154f98edb64e02b0ec8e23224c49f05d7303",
+    "distribution_sha256": "cb9a9b8e1ec466da415f3b6390491dec67a605dc1fc2cf790ab9ca98a4bfa6aa",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/35-Frameworks/Framework_Value-Precheck.md",
+    "source_sha256": "97b128b5b2e4aa2111b60f3e835b88512499794c85d5254d8625de0a9e9618d8",
+    "distribution_sha256": "995e033e4938beae93005f46da3f60b556d2d7d0398f93ab730cc23ed038ccd7",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/40-Strategies/Strategy_Consumer-PR-Operating-System.md",
+    "source_sha256": "56666c7cdca75fa27313502841e3e089a8e4712c3c3216212737484fd51414f0",
+    "distribution_sha256": "e8654ce141010fcc984cabc820739a12c4507622258eec6c695fd1c9b7f89e05",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/40-Strategies/Strategy_Crisis-Fact-Action-Disclosure.md",
+    "source_sha256": "cbace920c78df5b4166e62b2b775f71745c3a0cf60af4ca61795186744385cbf",
+    "distribution_sha256": "cc1c745a0377d28e8ab0f398a8d5cbfa35421d2ecc6ae91414cc8a841c9b7df5",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/40-Strategies/Strategy_Crisis-Stakeholder-Response-Sequence.md",
+    "source_sha256": "5313e248c4914baf53f879462c7f827df9cfe3234f6970698fded88af19031b6",
+    "distribution_sha256": "811c34686ff2b41ca9e8424eb212f228c8f927a1600622170327d55917fe51c5",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/40-Strategies/Strategy_Disputed-Facts-Evidence-Communication.md",
+    "source_sha256": "c5a956491381417f22acf6ee54661bdfeab9d1cfe61e8869fd0eca30626a9d0f",
+    "distribution_sha256": "f2cfed19821881208506c7294f35b1dd174fccd741b4ac527e1fe882c487f6d5",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/40-Strategies/Strategy_Organization-People-Crisis.md",
+    "source_sha256": "6cf9fd81e222361a29ce1d0e08935964a096a0e1c2b1854541483bd229cd978c",
+    "distribution_sha256": "d32a107b1b46714e633751ea1f395b7b7e3941d106a9f82c7b7b51e6569e57c7",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/40-Strategies/Strategy_Platform-Supply-Chain-Responsibility.md",
+    "source_sha256": "e06bb3b13fbd2a14c30213067302b120d34e4de6fb44c3f83830e02751ec10c2",
+    "distribution_sha256": "f1fcdd3006e7f6201a048772b91eeae782db3244cd4aa78d8d5640e0d74d379e",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/40-Strategies/Strategy_Product-Safety-Recall-Compensation.md",
+    "source_sha256": "9b506f10b80b81c3910ee660c438b033ec9b0e8d631392834a14d2c114554011",
+    "distribution_sha256": "a4e8a1a019f5f83c83b96678ef52efc8d45eca8eff124b34ed160b0ca27797dc",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/40-Strategies/Strategy_Public-Context-Value-Conflict.md",
+    "source_sha256": "0a49c05e83bf91a091b41e6a0224997dab2092ba39d86eaedd470083bae5f905",
+    "distribution_sha256": "42b24cc52ce779e981ec2616ae1ffbfab091edebc7f7257a062726e02d2661f6",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/45-Workflows/Workflow_Annual-Media-Relations-Strategy.md",
+    "source_sha256": "534d18023e819e88970e50bd80ceaff71535b1b8475fe19e0f85af7217708a29",
+    "distribution_sha256": "bf92081090f7dccce0d7f2923200073a5920465d67514ed8e5a7b628091c06af",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/45-Workflows/Workflow_Annual-PR-Strategy.md",
+    "source_sha256": "5dc506db77269332c34adf9c50c45b01a107662e3a8146629dee769603ddb9c9",
+    "distribution_sha256": "eed69ec7ceba4ff2673d4f03172489e244ddac7e9946bf71cc78a563e6653cfb",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/45-Workflows/Workflow_Annual-Public-Opinion-Management-Strategy.md",
+    "source_sha256": "cba1750e21ec1257b19722a59292f7a5fb86b7ae2c5e7aa80ec595e8f1ce1a60",
+    "distribution_sha256": "5b80e943dc8f67857dc4e394f82641535ab4edbf923801ae41582a4e992b99f5",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/45-Workflows/Workflow_Brand-Positioning-Clarification.md",
+    "source_sha256": "d16d7aaf03ad682c0951738c9febc892182db384425a0bc5b757ffba21ea49ac",
+    "distribution_sha256": "fe9fdea01ce0b5e0dadbbc5fdaa09755a3f62556ce19be8fe72a0ce26a33cdb0",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/45-Workflows/Workflow_Crisis-Contingency-Plan.md",
+    "source_sha256": "7930cae85d0ff53a1ff6ad0c01afc18e9e38bd6001a18c6f4aaa223c83bce458",
+    "distribution_sha256": "1faf5f78a64a4739446eada6d6cfd376f5cc49be77783a210cb5223d80ca60ad",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/45-Workflows/Workflow_Follow-Loop.md",
+    "source_sha256": "ebc4ad0b730c43e61555b01076f11077e196de26f851861f76666eaab61d9ea2",
+    "distribution_sha256": "c480a1b7f5c726daaf6ed0bcfcdc77cb2f654c03a515fe6a8d1a11c03fecbf74",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/45-Workflows/Workflow_Media-Interview-Preparation.md",
+    "source_sha256": "b9d82c92225482b0f686414ba33639757ef4a53191a862a38ff998a14d422477",
+    "distribution_sha256": "97e863dcb2c724e920d6381ce086ed02a12b541e8822ba2acf892f4c8ecbfbb2",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/45-Workflows/Workflow_Message-Review.md",
+    "source_sha256": "fc6ad5ffdbf9347326e1764fdc30fac520a22fbcdd93457fdfdce1b36d60b945",
+    "distribution_sha256": "942a6152c362657a29842eb65895fbd9d3cd425714ab9043a2f4bce838593599",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/45-Workflows/Workflow_New-Product-Communication-Plan.md",
+    "source_sha256": "65a966c42ef9e113e8ed76061777def05626ce7ca1ee3ea070f23c922bdd3df1",
+    "distribution_sha256": "528090361100e3924eaefecd502fd832e8c4b0e42c965a4e91fa86bf8faabea6",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/45-Workflows/Workflow_PR-Skill-Handoff.md",
+    "source_sha256": "4f9607c5486e8c8eb8374f0ffc6789181bb0df67915db3779660b100e04313f1",
+    "distribution_sha256": "d46b54d4a2df4b641b471bbe18fc9957dfec765e40863592f23219e8fbca31b7",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/45-Workflows/Workflow_Public-Opinion-Response-Decision.md",
+    "source_sha256": "ccbdf7008c8d4214274cd059ff7467a87ee7a3d373cd6de20c9001da0fb00a6f",
+    "distribution_sha256": "c4e4a60b0c3058a7de8f3ee341fccc45dab180d84e1ecdfcd58dfc1c61ccb7be",
+    "adapted": true
+  },
+  {
+    "path": "Domains/PR/45-Workflows/Workflow_Skill-Evolution.md",
+    "source_sha256": "5f75475a04ee15c06b9ce00990653694cab2167e4945bc9bb40e82a1d4a859ba",
+    "distribution_sha256": "40408fdda453297e02d7e163861707902f1942f558dca35fec2e8c464b8a59bb",
+    "adapted": true
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/SKILL.md",
+    "source_sha256": "112e6cc57c0752f3aae31486f75adc1d25dbf5015b998d2085db61f5497686ab",
+    "distribution_sha256": "1df9bdf8a5d81e196e45ea0dec93de15231bd89853dd702e752531b06b5c39cb",
+    "adapted": true
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/agents/openai.yaml",
+    "source_sha256": "888630a4a3143c929c62228ea9f5efbf5e9339ae67294031e656654e053b5bb3",
+    "distribution_sha256": "888630a4a3143c929c62228ea9f5efbf5e9339ae67294031e656654e053b5bb3",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/references/ai-knowledge-contract.md",
+    "source_sha256": "2113107394722b67d2fb216997ec3b5221f5f4aa5bf3d02676538acd6edb8901",
+    "distribution_sha256": "11ec64694a1bdd8d1bbeabf6f94eef1462ea90d7e5a20889f5a495b00a79826f",
+    "adapted": true
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/references/ai-person-evolution-model.md",
+    "source_sha256": "eebb9955fed47109ae4d40ac8a6ed3135702f58ebfefc99c73d7f9894e7502b1",
+    "distribution_sha256": "eebb9955fed47109ae4d40ac8a6ed3135702f58ebfefc99c73d7f9894e7502b1",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/references/case-follow-model.md",
+    "source_sha256": "44f5575bee272d2381b48d972d4b09eb5789d0c6c5d0e3100c8083d60461e048",
+    "distribution_sha256": "44f5575bee272d2381b48d972d4b09eb5789d0c6c5d0e3100c8083d60461e048",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/references/case-method-baseline.md",
+    "source_sha256": "3459fa2f181b20eeb0fa2c1c002277186e525cd3495812285bfc89a7094218af",
+    "distribution_sha256": "58f4d0a7fa7b908017c93e4c1aeb0ee4b29fd17ba617e550646a3a7f7e7472e0",
+    "adapted": true
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/references/embodied-intelligence-model.md",
+    "source_sha256": "cdeb8191579f2d0947630110a3ef460ce5b82de6878527aa7b7e85d0e34a73c3",
+    "distribution_sha256": "cdeb8191579f2d0947630110a3ef460ce5b82de6878527aa7b7e85d0e34a73c3",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/references/luxury-intelligence-model.md",
+    "source_sha256": "fff4ab33aea66c2d26045236fcc65357b63e398a385860f06914fb0f9e8f7967",
+    "distribution_sha256": "fff4ab33aea66c2d26045236fcc65357b63e398a385860f06914fb0f9e8f7967",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/references/pr-knowledge-contract.md",
+    "source_sha256": "9569cdc90fef504f38c1f18eecc253197760da3dda69eac607d7fe795cdf5c22",
+    "distribution_sha256": "9569cdc90fef504f38c1f18eecc253197760da3dda69eac607d7fe795cdf5c22",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/references/pr-person-evolution-model.md",
+    "source_sha256": "28661ec1cecb8afbdb829c4bca5d8e28b1be8278c2b25cf12aea1ec1317f0f56",
+    "distribution_sha256": "28661ec1cecb8afbdb829c4bca5d8e28b1be8278c2b25cf12aea1ec1317f0f56",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/references/pr-trend-model.md",
+    "source_sha256": "847967358ced694d666b61e1934b327cc700dfc5db2bef942dcb46650e198b79",
+    "distribution_sha256": "847967358ced694d666b61e1934b327cc700dfc5db2bef942dcb46650e198b79",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/references/routing-and-write-contract.md",
+    "source_sha256": "eecac26e6780609a9cdf66f11ad58a0b6054c622f645cee01f3a5b7fe392623b",
+    "distribution_sha256": "eecac26e6780609a9cdf66f11ad58a0b6054c622f645cee01f3a5b7fe392623b",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/references/source-policy.md",
+    "source_sha256": "2ebbf894c711b1353261bce1d8b3311dba119b6c154fa74c88a79825c8691801",
+    "distribution_sha256": "faa7ac391fef793b103621bf3ee142c36832c7c4f3e415bb9b63af8f3efeb127",
+    "adapted": true
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/scripts/query_sources.rb",
+    "source_sha256": "a003464727055155aeff9d2d7a7d33d84a73b23c43e9a0031ed9bba33c936f00",
+    "distribution_sha256": "a003464727055155aeff9d2d7a7d33d84a73b23c43e9a0031ed9bba33c936f00",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/scripts/query_state.rb",
+    "source_sha256": "fdc20850320b293c2981b06309a8021e39a7fb31e7f9901bb30f98de77b2f93e",
+    "distribution_sha256": "fdc20850320b293c2981b06309a8021e39a7fb31e7f9901bb30f98de77b2f93e",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/scripts/test_follow_contract.py",
+    "source_sha256": "10b894e7aa28806301f383ea9fa44fe800f45827ccd3afb8da407a5b0ef4a3cf",
+    "distribution_sha256": "10b894e7aa28806301f383ea9fa44fe800f45827ccd3afb8da407a5b0ef4a3cf",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/scripts/validate_ai_lane.py",
+    "source_sha256": "4e05097b8016f55aa4737b2ed64817ed5a82e5b77af6df047356ed315c4f3f00",
+    "distribution_sha256": "4e05097b8016f55aa4737b2ed64817ed5a82e5b77af6df047356ed315c4f3f00",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/scripts/validate_case_follow.rb",
+    "source_sha256": "55f61d4216e951d6fac046676b92d7730eb1f2b275c0ab905e8e3fa017598c75",
+    "distribution_sha256": "55f61d4216e951d6fac046676b92d7730eb1f2b275c0ab905e8e3fa017598c75",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/scripts/validate_embodied_lane.py",
+    "source_sha256": "78b1184e3bd809396463c346e8ef1c6f88ee64e22d4c92af89e374ce73abd864",
+    "distribution_sha256": "78b1184e3bd809396463c346e8ef1c6f88ee64e22d4c92af89e374ce73abd864",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/scripts/validate_follow_loop.py",
+    "source_sha256": "e509c46a18e6b616f9fc571ee548f11c8eff65b263d18c9a4e8ab5f485bb1f9a",
+    "distribution_sha256": "e509c46a18e6b616f9fc571ee548f11c8eff65b263d18c9a4e8ab5f485bb1f9a",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/scripts/validate_luxury_lane.py",
+    "source_sha256": "fac57d44481a3fdb7ebe4c40e8fa252fcc95f80af2af26b10114a27c134856d1",
+    "distribution_sha256": "fac57d44481a3fdb7ebe4c40e8fa252fcc95f80af2af26b10114a27c134856d1",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/follow-loop/scripts/validate_pr_lane.py",
+    "source_sha256": "9029e4d96707b3311b6fda278e5884f46b0469e67403fd2eeea54532750e073e",
+    "distribution_sha256": "9029e4d96707b3311b6fda278e5884f46b0469e67403fd2eeea54532750e073e",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/skill-evolution/SKILL.md",
+    "source_sha256": "8db296d97ead1c444cb6ee5d65ce4ed5f9c89b522e3c2d699521356305ac6f48",
+    "distribution_sha256": "f8c55cdcefddc66224a233591c17e1310cf62f89a0bee48c705a966563d2cfbe",
+    "adapted": true
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/skill-evolution/agents/openai.yaml",
+    "source_sha256": "0bfa5b066fff07b84aebb8bec9607073f079bbc48801aa8b571885fe75d35190",
+    "distribution_sha256": "0bfa5b066fff07b84aebb8bec9607073f079bbc48801aa8b571885fe75d35190",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/skill-evolution/references/task-record.md",
+    "source_sha256": "486cb76e2ab15db2b75dd117635e44e73f2eac790a2174f51313341d2453e075",
+    "distribution_sha256": "486cb76e2ab15db2b75dd117635e44e73f2eac790a2174f51313341d2453e075",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/skill-evolution/references/validation.md",
+    "source_sha256": "bfda7a99fec444ee472b7b2da48f29a46425f9eaf90fe802121c87b4ec8ae284",
+    "distribution_sha256": "bfda7a99fec444ee472b7b2da48f29a46425f9eaf90fe802121c87b4ec8ae284",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/spoken-content-extractor/SKILL.md",
+    "source_sha256": "fc8699e8ae0a622717e49775582a66376130c2c22aacef0cf916b540e0f6a902",
+    "distribution_sha256": "861048d938b6670d2da66aca557cc60b89b9ebdbb523f5142f4a399561f3bd97",
+    "adapted": true
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/spoken-content-extractor/agents/openai.yaml",
+    "source_sha256": "2a25152e143672c6da263fbf92e6e6ebbc7cf92a25108dd8ead46c6e90d525dc",
+    "distribution_sha256": "2a25152e143672c6da263fbf92e6e6ebbc7cf92a25108dd8ead46c6e90d525dc",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/spoken-content-extractor/references/output-patterns.md",
+    "source_sha256": "c7eda75c2383bf8a4ce775f40d1821917416f8546d3ca21563ed6a42f8b7b0ad",
+    "distribution_sha256": "c7eda75c2383bf8a4ce775f40d1821917416f8546d3ca21563ed6a42f8b7b0ad",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/spoken-content-extractor/references/study-guide-patterns.md",
+    "source_sha256": "50213bf0840034fd7ce0182e9e32454faaaa2a75d76b7fcda200468abf695b64",
+    "distribution_sha256": "50213bf0840034fd7ce0182e9e32454faaaa2a75d76b7fcda200468abf695b64",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/spoken-content-extractor/references/transcription-and-index.md",
+    "source_sha256": "30cdc45095c5e763756cab894d59dbcc27c962590b4c070d91f4ee4ea3a503e0",
+    "distribution_sha256": "30cdc45095c5e763756cab894d59dbcc27c962590b4c070d91f4ee4ea3a503e0",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/spoken-content-extractor/scripts/index_transcript.py",
+    "source_sha256": "23a0857de9a2ec07f46c779035456f84fe7f80bd5875900875e5abf1113ab8e0",
+    "distribution_sha256": "23a0857de9a2ec07f46c779035456f84fe7f80bd5875900875e5abf1113ab8e0",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Knowledge-Intelligence/spoken-content-extractor/scripts/transcribe_audio.py",
+    "source_sha256": "7ea612432ba13c42cc3e7f759fcf0c546cd3c4970d068aeef1e34bebcc1c9089",
+    "distribution_sha256": "7ea612432ba13c42cc3e7f759fcf0c546cd3c4970d068aeef1e34bebcc1c9089",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/annual-pr-strategy/SKILL.md",
+    "source_sha256": "07cef90e6b94ec586b30a23a460413054cef8890b963fa163b065625c7cda825",
+    "distribution_sha256": "249a9e406075ec5e743338d23a9a19531a68de38beb153da96f2ea071d4fdc10",
+    "adapted": true
+  },
+  {
+    "path": "Skills/PR/copy-lens-review/SKILL.md",
+    "source_sha256": "66135d63f3e174ca5734333522de937b4bd045ea3a3eca39b1dcf1426aeb9a07",
+    "distribution_sha256": "80c61c8dc8c16097ea3e7282cb37b0f74ebc0f09aff3b2e26cd30745f4668be6",
+    "adapted": true
+  },
+  {
+    "path": "Skills/PR/copy-lens-review/references/example-oppo-mothers-day.md",
+    "source_sha256": "1e52298d1b297bcda6d7114a6ff860b8cddf8e80a4df37592f51be0d966771fe",
+    "distribution_sha256": "1e52298d1b297bcda6d7114a6ff860b8cddf8e80a4df37592f51be0d966771fe",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/copy-lens-review/references/knowledge-map.md",
+    "source_sha256": "c721e4af5cd7b8e655f4195dfbefabb2b398954d00b62d18b4245b37a86202cf",
+    "distribution_sha256": "d38ceeed4048cd51bcec0f9d76523ef7724bd73cf867df1077d3d3e84aa52b6e",
+    "adapted": true
+  },
+  {
+    "path": "Skills/PR/copy-lens-review/references/perspective-library.md",
+    "source_sha256": "824ee93697ecfaa31c28f42bbc80f6235c68cbf01cbb886bca421e9bf9b4b1f2",
+    "distribution_sha256": "824ee93697ecfaa31c28f42bbc80f6235c68cbf01cbb886bca421e9bf9b4b1f2",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/copy-lens-review/references/pet-food-risk-context.md",
+    "source_sha256": "fc6f8fcf662e276ce0fd1c080f34313ecdd711ea5a6e22c0096b54d47ee06607",
+    "distribution_sha256": "fc6f8fcf662e276ce0fd1c080f34313ecdd711ea5a6e22c0096b54d47ee06607",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/copy-lens-review/references/pet-food-runtime.md",
+    "source_sha256": "9510b9e67ddf8aa8d180e98bae4267ef7d2cebeeccecca823da7b4b2dcfa6494",
+    "distribution_sha256": "9510b9e67ddf8aa8d180e98bae4267ef7d2cebeeccecca823da7b4b2dcfa6494",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/copy-lens-review/references/risk-model.md",
+    "source_sha256": "1117a1601ee74138bf45efc23b71bc5f9972d19bd3d29447fc49377afcdab4d2",
+    "distribution_sha256": "1117a1601ee74138bf45efc23b71bc5f9972d19bd3d29447fc49377afcdab4d2",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/copy-lens-review/scripts/copy_lens_review.py",
+    "source_sha256": "a742b8e42bcf003d79a26a47bfa2e50790fcc9e9fcbbf60aa1ab69ba74161fbb",
+    "distribution_sha256": "a742b8e42bcf003d79a26a47bfa2e50790fcc9e9fcbbf60aa1ab69ba74161fbb",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/hot-public-opinion-analysis/SKILL.md",
+    "source_sha256": "2e61444c26ce9e3c62275790d710eeda98bb61cddc1af4ed66ee258561469e50",
+    "distribution_sha256": "12b7fa24760f73dae1de3a02b1ee79b2bc9352670c1bb2596b4471053c604622",
+    "adapted": true
+  },
+  {
+    "path": "Skills/PR/hot-public-opinion-analysis/references/analysis-framework.md",
+    "source_sha256": "885e7d246de3a6a85f41837d5dbe7eb02b408f6792da2a3b5b312cf2307fb196",
+    "distribution_sha256": "885e7d246de3a6a85f41837d5dbe7eb02b408f6792da2a3b5b312cf2307fb196",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/hot-public-opinion-analysis/references/knowledge-map.md",
+    "source_sha256": "ba207373ad7d432befa0b2a07fe4c1d975a826c4b8ca65ba3ed1d96406eaf33e",
+    "distribution_sha256": "2d7bcc09e1d986e3f92e97cc0af0b331bb6f3da98d18e37880357cdcb26d90bc",
+    "adapted": true
+  },
+  {
+    "path": "Skills/PR/hot-public-opinion-analysis/references/output-template.md",
+    "source_sha256": "e621759e66e87c1d93838e6a3393420eb0ac5f07860147ce66e51a1a643933ce",
+    "distribution_sha256": "e621759e66e87c1d93838e6a3393420eb0ac5f07860147ce66e51a1a643933ce",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/judgment-hub/SKILL.md",
+    "source_sha256": "8c451a04c48b6b8bddf53997e6ba161850a1740a5061cfa14e41526402ab6f0d",
+    "distribution_sha256": "f6b6f2252d344c7125a3b5bf6ad26b18aa3023597575d4e8c279cf7df105f1c3",
+    "adapted": true
+  },
+  {
+    "path": "Skills/PR/judgment-hub/references/knowledge-map.md",
+    "source_sha256": "c77bb2c31d38e143a5a771eddcb728e9470ea4e277f2da2f30a2682f574a69bc",
+    "distribution_sha256": "a26b0b2368b0528c4329ebd97178fbea15c0d821dc12ed5fe46ff018a75ebe37",
+    "adapted": true
+  },
+  {
+    "path": "Skills/PR/media-narrative-analysis/SKILL.md",
+    "source_sha256": "a5445c0b254da469940b2a59971c2994e9eb9e5b9c841249df495161caa9c650",
+    "distribution_sha256": "15024f428971d274ee838c9b682f500cb8ff75498271571e030128a1ce65380f",
+    "adapted": true
+  },
+  {
+    "path": "Skills/PR/media-narrative-analysis/references/knowledge-map.md",
+    "source_sha256": "03a86ea422bcd3c081542f29a5e6626a13c043d26893084384e8e477cbeb5c32",
+    "distribution_sha256": "ac3211f9db58535c7aca8f9c8d275129705ec5722304beff4e9722c2cb0a626c",
+    "adapted": true
+  },
+  {
+    "path": "Skills/PR/pr-consumer-research/SKILL.md",
+    "source_sha256": "da405556a82a52936a008ec89123061d5b2ca9db2f807ee4147c06c70ad36e65",
+    "distribution_sha256": "6d8d97cf459a9920717080f77f33523266e5df4a5a9e99215e1c60e8fc511ecc",
+    "adapted": true
+  },
+  {
+    "path": "Skills/PR/pr-consumer-research/references/purchase-path-to-pr.md",
+    "source_sha256": "ebadaf9f5c801796f93f2499a1cd94c6ac09366d24da0edf2d496b9d6f98ac27",
+    "distribution_sha256": "2d6f6c6774141d724b9493dae76eaa91acdc3a6944c0d73efe2729d9fc25f289",
+    "adapted": true
+  },
+  {
+    "path": "Skills/PR/pr-contingency-plan/SKILL.md",
+    "source_sha256": "b35a004aa794acce13a7853298ae55accb4a01283edefea9e37b1b779a891aad",
+    "distribution_sha256": "c1d17d250a0fe11a8ee552a95dbfb84f2adf732e717d7c5bbc0324d5f7127b08",
+    "adapted": true
+  },
+  {
+    "path": "Skills/PR/pr-contingency-plan/references/change-issue.md",
+    "source_sha256": "54d80ed01e5f7a0e9c6fee9d45b92c9ec327ffb6ef61dcc6135fc3514b9dbe12",
+    "distribution_sha256": "54d80ed01e5f7a0e9c6fee9d45b92c9ec327ffb6ef61dcc6135fc3514b9dbe12",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/pr-contingency-plan/references/content-placement.md",
+    "source_sha256": "e75c85b55c19cf22ef5a3a895eab7f2799324d6438b6e44eab628eaa47c1e482",
+    "distribution_sha256": "e75c85b55c19cf22ef5a3a895eab7f2799324d6438b6e44eab628eaa47c1e482",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/pr-contingency-plan/references/knowledge-map.md",
+    "source_sha256": "335238b26e395e8ddb312fe141f25a44731cd0e40e73864bd4036afe8e6a6949",
+    "distribution_sha256": "03efa5061b14826080eb526ec0526e7d905105c6bdf52e9bcd4991e7c3c73857",
+    "adapted": true
+  },
+  {
+    "path": "Skills/PR/pr-contingency-plan/references/product-launch.md",
+    "source_sha256": "e9512872ef9d567d95c637d7343e2cf5458858efe87f871176e5c7a195582f33",
+    "distribution_sha256": "e9512872ef9d567d95c637d7343e2cf5458858efe87f871176e5c7a195582f33",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/pr-contingency-plan/references/spokesperson-fandom.md",
+    "source_sha256": "09e796bf90cf0902b3c3b79b64e250910ecaf0502f589bef92608cb92c48902c",
+    "distribution_sha256": "09e796bf90cf0902b3c3b79b64e250910ecaf0502f589bef92608cb92c48902c",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/press-release/SKILL.md",
+    "source_sha256": "4a9537f812687b2e137fdb3e53ea57d1e54823ac234bff644885aa40d98d276c",
+    "distribution_sha256": "8291f40d960cae98fdd2edd97a9fe8a5e0c3c600e241926b19d12378caa58400",
+    "adapted": true
+  },
+  {
+    "path": "Skills/PR/press-release/final-review.md",
+    "source_sha256": "b78eac04f2ac4f07933b0f2777f4e60ee4d5362d6d696b9d9e6a80434fb28bfe",
+    "distribution_sha256": "b78eac04f2ac4f07933b0f2777f4e60ee4d5362d6d696b9d9e6a80434fb28bfe",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/press-release/references/knowledge-map.md",
+    "source_sha256": "8596ad66d0311b1af5a03fb5573616fab050bad76003906a6d4af748482d7df5",
+    "distribution_sha256": "87a0ac73a69d48f54e5c4410ddbb52099e8533e7df2b85c9a0b1f53f1b4d2c5a",
+    "adapted": true
+  },
+  {
+    "path": "Skills/PR/press-release/references/types/event-news.md",
+    "source_sha256": "fd266d20666d46d99cffaaa95a87bc394743b3cdaf86388a75a850514c8effd4",
+    "distribution_sha256": "fd266d20666d46d99cffaaa95a87bc394743b3cdaf86388a75a850514c8effd4",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/press-release/references/types/expert-view.md",
+    "source_sha256": "9450192712d839681db4da8c85b8c7a7d89bbd01abf9c9ad4993837ee9ccf525",
+    "distribution_sha256": "9450192712d839681db4da8c85b8c7a7d89bbd01abf9c9ad4993837ee9ccf525",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/press-release/references/types/new-product.md",
+    "source_sha256": "2416620fc517f12bdacbded86757ecc85485845e39065eb1d08d28869f573b03",
+    "distribution_sha256": "2416620fc517f12bdacbded86757ecc85485845e39065eb1d08d28869f573b03",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/press-release/references/types/public-interest.md",
+    "source_sha256": "4363fb6e63abe0eb0c3262a5ad43c9082f17dfd943da118c09405c06e10c39d4",
+    "distribution_sha256": "4363fb6e63abe0eb0c3262a5ad43c9082f17dfd943da118c09405c06e10c39d4",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/press-release/references/types/year-review.md",
+    "source_sha256": "44b34d422dfd95d35177fb8e327460ee0214329f1405144466b7a9b222e928ad",
+    "distribution_sha256": "44b34d422dfd95d35177fb8e327460ee0214329f1405144466b7a9b222e928ad",
+    "adapted": false
+  },
+  {
+    "path": "Skills/PR/press-release/writing-rules.md",
+    "source_sha256": "2f1fa9f7231260533c3e40a101878f613c68a7ae1c2a998b977730e04dbae104",
+    "distribution_sha256": "2f1fa9f7231260533c3e40a101878f613c68a7ae1c2a998b977730e04dbae104",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/consumer-research/SKILL.md",
+    "source_sha256": "48f712cc53c68aef7f8e5106fc3e09c56b54dc7855b6458db6e0ec4511e687ab",
+    "distribution_sha256": "e8f55ab4fef1f83fbe225de00721465fdbcb8b2fe0b59d106ca5ed5ddcd5a6b1",
+    "adapted": true
+  },
+  {
+    "path": "Skills/Research/consumer-research/references/after-sales-experience.md",
+    "source_sha256": "77ed91107d250a407e631f0c027f5b0a8de7da459728649d4a95019521a8f8fe",
+    "distribution_sha256": "77ed91107d250a407e631f0c027f5b0a8de7da459728649d4a95019521a8f8fe",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/consumer-research/references/choice-environment.md",
+    "source_sha256": "4dab39544c94bfa083a54d64d253d82cb231492bf772b1b35b3947d5bf0d347c",
+    "distribution_sha256": "c88d6ccd5e5a60c408b5fe0a9438b12bb9da405f392e735ca0b86b8312ea0458",
+    "adapted": true
+  },
+  {
+    "path": "Skills/Research/consumer-research/references/claim-evidence.md",
+    "source_sha256": "bcdf0014067568873daf0cddc0072647f40d076aaee8f78d09e1d1fbf9affa33",
+    "distribution_sha256": "bcdf0014067568873daf0cddc0072647f40d076aaee8f78d09e1d1fbf9affa33",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/consumer-research/references/communication-content-effects.md",
+    "source_sha256": "4cf57f02faf916e42d21f77fc82aa4c554b1fa4fc5cb3d6c0b360f7b0011ead8",
+    "distribution_sha256": "76d1de8ae054ae6e26c4f3d976204c89bb23ba38f3dfb9bad29edba0f5c3d90c",
+    "adapted": true
+  },
+  {
+    "path": "Skills/Research/consumer-research/references/consumer-culture-and-trends.md",
+    "source_sha256": "1c8f051f01bd0b677cfdfaedb8b36850dbeaadc0c57a1b0d1b179ec410dfc08b",
+    "distribution_sha256": "45feae00ec570189119068eae24ff42c807392d4815c372869e004c814116c06",
+    "adapted": true
+  },
+  {
+    "path": "Skills/Research/consumer-research/references/focus-groups-and-social-meaning.md",
+    "source_sha256": "58d808e4a86abe1485fbe5414f861232d91b5c107f61f4c243995ac630d6b9d5",
+    "distribution_sha256": "fedab2b198bad36642d5bdb3809135433935ce42918ecb74b072350be9b35fad",
+    "adapted": true
+  },
+  {
+    "path": "Skills/Research/consumer-research/references/low-frequency-and-occasions.md",
+    "source_sha256": "9ead2c68db99eee9917c4afc1a3b108d7ef6ae07351834bb4114a343cbc35b66",
+    "distribution_sha256": "c6d4bbe02a57cba7c84816a678c868d3b397e8d2d4d12485d7c95fc4b776c1de",
+    "adapted": true
+  },
+  {
+    "path": "Skills/Research/consumer-research/references/research-context.md",
+    "source_sha256": "b07988049d807dcc3d9684cb86e04e325db0540337c830ba915c03ded9b8934f",
+    "distribution_sha256": "2664315db90577595e80ee43a64a34926ed47a4f03886dc9a85251bc71c22d6e",
+    "adapted": true
+  },
+  {
+    "path": "Skills/Research/consumer-research/references/search-process.md",
+    "source_sha256": "0a2ca34fb44b410fe21aff91d27c9ea4f96ec0afc98358a936ebeac5cdd30af2",
+    "distribution_sha256": "dc02f431aa27558ffc8ee87c6d473b898a3ca51f9612cf7db7d13d283261ec9a",
+    "adapted": true
+  },
+  {
+    "path": "Skills/Research/consumer-research/references/statistical-claim-review.md",
+    "source_sha256": "0b8a08d7936d5410dbbe3ec20dc5b8e811eb0ab9eb6bd5f99f8fb8cf3910e06a",
+    "distribution_sha256": "0b8a08d7936d5410dbbe3ec20dc5b8e811eb0ab9eb6bd5f99f8fb8cf3910e06a",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/consumer-research/references/voc-coding-and-synthesis.md",
+    "source_sha256": "4ddc5932789e137035676a7b9b0a6f2d7884581a1e5280c8e9639fd78f02dcbb",
+    "distribution_sha256": "4ddc5932789e137035676a7b9b0a6f2d7884581a1e5280c8e9639fd78f02dcbb",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/industry-media-research/SKILL.md",
+    "source_sha256": "bc38fa9ec0763a06f497b9b7b8e2cedd99b1c340c751a9c898e3ae65475b907f",
+    "distribution_sha256": "cb42dd67bb517519a8d4dc3acfcde918ad4a11a71fcf9162123d88d40c4a6eec",
+    "adapted": true
+  },
+  {
+    "path": "Skills/Research/industry-media-research/agents/openai.yaml",
+    "source_sha256": "00402c5d174e81f68b30290117cfdee5cd819871dbb49e44f3182119618b311d",
+    "distribution_sha256": "00402c5d174e81f68b30290117cfdee5cd819871dbb49e44f3182119618b311d",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/industry-media-research/references/coding-schema.md",
+    "source_sha256": "39165de3090fd48977ff7c8c22631551ae20ab2c96ab05af20c81ac57451f3d5",
+    "distribution_sha256": "39165de3090fd48977ff7c8c22631551ae20ab2c96ab05af20c81ac57451f3d5",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/industry-media-research/references/collection-and-evidence-review.md",
+    "source_sha256": "a2b0da49b845b24d934481128df1e854c7f5404ba5800b8636292ecc073c443d",
+    "distribution_sha256": "a2b0da49b845b24d934481128df1e854c7f5404ba5800b8636292ecc073c443d",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/industry-research/SKILL.md",
+    "source_sha256": "acaeba0a6bb271b27c22a1c7dba061e1aa69c3ffecca1b6393b7a38b70225f50",
+    "distribution_sha256": "1d0c114e77d44d055b0ccd005cf0dd6092fdcb1d02c4b6d6924518c90f1dceba",
+    "adapted": true
+  },
+  {
+    "path": "Skills/Research/industry-research/agents/openai.yaml",
+    "source_sha256": "9a7c17f400f68e70b1fd539f82315dfc5a035ba33c67d27b7fc669fdbb959d20",
+    "distribution_sha256": "9a7c17f400f68e70b1fd539f82315dfc5a035ba33c67d27b7fc669fdbb959d20",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/industry-research/assets/evidence-ledger-template.csv",
+    "source_sha256": "d621bf6ce2757c65a5ac120439527ce930a650bee052527eb3356c84f8f90a3b",
+    "distribution_sha256": "d621bf6ce2757c65a5ac120439527ce930a650bee052527eb3356c84f8f90a3b",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/industry-research/assets/industry-research-report-template.md",
+    "source_sha256": "0d9d6d6ef6895455b14c612e4899a744a6d9c0d34551022a237bcf12becedd58",
+    "distribution_sha256": "0d9d6d6ef6895455b14c612e4899a744a6d9c0d34551022a237bcf12becedd58",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/industry-research/assets/metric-dictionary-template.csv",
+    "source_sha256": "71013a5cfe7022f65c10ba5264714333b5c089ca881d12cb8bca54dae37a7479",
+    "distribution_sha256": "71013a5cfe7022f65c10ba5264714333b5c089ca881d12cb8bca54dae37a7479",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/industry-research/assets/research-contract-template.md",
+    "source_sha256": "bb8dc080f8b601e0b253d3b2a17f7605b0b2fa350670af05bafc61bb8f818d74",
+    "distribution_sha256": "bb8dc080f8b601e0b253d3b2a17f7605b0b2fa350670af05bafc61bb8f818d74",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/industry-research/assets/sample-registry-template.csv",
+    "source_sha256": "19e8f79535f88c6551cfaebf65440b2cfbafc06086193d5bf5135e4209778cb8",
+    "distribution_sha256": "19e8f79535f88c6551cfaebf65440b2cfbafc06086193d5bf5135e4209778cb8",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/industry-research/references/cross-source-synthesis.md",
+    "source_sha256": "9ab03df437ab2fcc7b649db252c98f0f736fc8481dbc3905f13c9857d3b3c9fb",
+    "distribution_sha256": "9ab03df437ab2fcc7b649db252c98f0f736fc8481dbc3905f13c9857d3b3c9fb",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/industry-research/references/module-playbook.md",
+    "source_sha256": "e95190a69eb34cd92acb3fd4a7e3dfde1837ce3f9a0a9c909155f34585a948f0",
+    "distribution_sha256": "e95190a69eb34cd92acb3fd4a7e3dfde1837ce3f9a0a9c909155f34585a948f0",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/industry-research/references/output-and-quality-gates.md",
+    "source_sha256": "5907dde7bf454455a8120e3aaabb68efd1413bb46614678a1e7dc89373e4eaa0",
+    "distribution_sha256": "5907dde7bf454455a8120e3aaabb68efd1413bb46614678a1e7dc89373e4eaa0",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/industry-research/references/research-contract-and-evidence.md",
+    "source_sha256": "d65cb02211eda0cc576da824d0e83201d1b49412739f9b41930b6f19a5ec3e5d",
+    "distribution_sha256": "d65cb02211eda0cc576da824d0e83201d1b49412739f9b41930b6f19a5ec3e5d",
+    "adapted": false
+  },
+  {
+    "path": "Skills/Research/industry-research/scripts/audit_research.py",
+    "source_sha256": "fdb5e90c90168e3b3c7f9ac69a84c03cf2fd3656ffca87863b32e93145af0838",
+    "distribution_sha256": "fdb5e90c90168e3b3c7f9ac69a84c03cf2fd3656ffca87863b32e93145af0838",
+    "adapted": false
+  }
+]

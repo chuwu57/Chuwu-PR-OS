@@ -1,0 +1,58 @@
+release: "PROS 05"
+skills:
+  annual-pr-strategy:
+    path: Skills/PR/annual-pr-strategy
+    maintainer: 初五
+    distribution_status: review-candidate
+  copy-lens-review:
+    path: Skills/PR/copy-lens-review
+    maintainer: 初五
+    distribution_status: review-candidate
+  hot-public-opinion-analysis:
+    path: Skills/PR/hot-public-opinion-analysis
+    maintainer: 初五
+    distribution_status: review-candidate
+  judgment-hub:
+    path: Skills/PR/judgment-hub
+    maintainer: 初五
+    distribution_status: review-candidate
+  media-narrative-analysis:
+    path: Skills/PR/media-narrative-analysis
+    maintainer: 初五
+    distribution_status: review-candidate
+  pr-consumer-research:
+    path: Skills/PR/pr-consumer-research
+    maintainer: 初五
+    distribution_status: review-candidate
+  pr-contingency-plan:
+    path: Skills/PR/pr-contingency-plan
+    maintainer: 初五
+    distribution_status: review-candidate
+  press-release:
+    path: Skills/PR/press-release
+    maintainer: 初五
+    distribution_status: review-candidate
+  consumer-research:
+    path: Skills/Research/consumer-research
+    maintainer: 初五
+    distribution_status: review-candidate
+  industry-media-research:
+    path: Skills/Research/industry-media-research
+    maintainer: 初五
+    distribution_status: review-candidate
+  industry-research:
+    path: Skills/Research/industry-research
+    maintainer: 初五
+    distribution_status: review-candidate
+  follow-loop:
+    path: Skills/Knowledge-Intelligence/follow-loop
+    maintainer: 初五
+    distribution_status: review-candidate
+  spoken-content-extractor:
+    path: Skills/Knowledge-Intelligence/spoken-content-extractor
+    maintainer: 初五
+    distribution_status: review-candidate
+  skill-evolution:
+    path: Skills/Knowledge-Intelligence/skill-evolution
+    maintainer: 初五
+    distribution_status: review-candidate

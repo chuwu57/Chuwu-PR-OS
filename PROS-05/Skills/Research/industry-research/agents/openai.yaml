@@ -1,0 +1,4 @@
+interface:
+  display_name: "行业研究"
+  short_description: "初五的行业研究Skill：以证据解释需求、竞争、利润与行动条件"
+  default_prompt: "使用$industry-research完成一份决策级行业研究，并标明证据边界。"

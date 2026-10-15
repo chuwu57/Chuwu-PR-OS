@@ -1,0 +1,6 @@
+interface:
+  display_name: "Skill进化"
+  short_description: "初五的Skill进化与维护：依据知识和反馈修正、深化并验证已有能力"
+  default_prompt: "使用$skill-evolution，基于知识库当前积累与实际任务反馈，对已有公关Skill运行一轮维护。"
+policy:
+  allow_implicit_invocation: false
