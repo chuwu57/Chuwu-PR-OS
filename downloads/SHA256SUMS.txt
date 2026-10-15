@@ -1,1 +1,2 @@
-9dcaa545c628fc7bf672734d48412699adb1b3b01e1708573fcf90eb9490cf3c  PROS-05-workbuddy.zip
+60d601bc00620086c324ff6c2e71c2b940feb31304e7bcbf3ea224e35d2f0ac7  PROS-05-workbuddy-skill.zip
+60d601bc00620086c324ff6c2e71c2b940feb31304e7bcbf3ea224e35d2f0ac7  PROS-05-workbuddy.zip
