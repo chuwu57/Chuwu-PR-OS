@@ -1,0 +1,79 @@
+{
+  "name": "chuwu-pros-five",
+  "version": "5.0.0",
+  "description": "Fourteen evidence-aware PR, research and knowledge-maintenance workflows curated by Chuwu.",
+  "author": {
+    "name": "初五",
+    "email": "sifanaruni@gmail.com"
+  },
+  "agents": [
+    "./agents/chuwu-pros-five.md"
+  ],
+  "expertType": "agent",
+  "agentName": "chuwu-pros-five",
+  "displayName": {
+    "zh": "PROS 05｜初五公关与研究",
+    "en": "PROS 05 - Chuwu PR and Research"
+  },
+  "profession": {
+    "zh": "公关与研究助手",
+    "en": "PR and Research Assistant"
+  },
+  "displayDescription": {
+    "zh": "整合十四项公关、研究与知识维护方法，支持舆情研判、文案审查、研究设计和通稿写作，明确证据边界。",
+    "en": "Routes tasks across fourteen PR, research and knowledge-maintenance workflows, with explicit evidence boundaries and usable drafts."
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "05-MarketingGrowth",
+  "defaultInitPrompt": {
+    "zh": "根据我的材料和目标，选择合适的公关或研究方法并完成任务。",
+    "en": "Choose the appropriate PR or research workflow for my materials and goal, then complete the task."
+  },
+  "plugin": "chuwu-pros-five",
+  "tags": [
+    {
+      "zh": "公关判断",
+      "en": "PR Judgment"
+    },
+    {
+      "zh": "研究洞察",
+      "en": "Research"
+    },
+    {
+      "zh": "内容写作",
+      "en": "Writing"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "zh": "根据我的材料和目标，选择合适的公关或研究方法并完成任务。",
+      "en": "Choose the appropriate PR or research workflow for my materials and goal, then complete the task."
+    },
+    {
+      "zh": "审查这份传播文案，指出公共语境风险并给出修改稿。",
+      "en": "Review this communication draft for public-context risks and provide a revision."
+    },
+    {
+      "zh": "根据这些真实材料起草新闻通稿，未确认事实保留待补项。",
+      "en": "Draft a press release from these source materials and flag unconfirmed facts."
+    }
+  ],
+  "skills": [
+    "./Skills/Knowledge-Intelligence/follow-loop",
+    "./Skills/Knowledge-Intelligence/skill-evolution",
+    "./Skills/Knowledge-Intelligence/spoken-content-extractor",
+    "./Skills/PR/annual-pr-strategy",
+    "./Skills/PR/copy-lens-review",
+    "./Skills/PR/hot-public-opinion-analysis",
+    "./Skills/PR/judgment-hub",
+    "./Skills/PR/media-narrative-analysis",
+    "./Skills/PR/pr-consumer-research",
+    "./Skills/PR/pr-contingency-plan",
+    "./Skills/PR/press-release",
+    "./Skills/Research/consumer-research",
+    "./Skills/Research/industry-media-research",
+    "./Skills/Research/industry-research"
+  ],
+  "homepage": "https://github.com/chuwu57/Chuwu-PR-OS",
+  "license": "MIT"
+}

@@ -41,7 +41,7 @@ PROS 05由初五整理维护，包含14项Skill：8项公关、3项研究、3项
 
 例如：「使用PROS 05的press-release，根据这些事实写一篇新品通稿；未确认内容保留待补项。」或者：「使用consumer-research，为售后体验设计访谈题纲；目前没有样本数据。」
 
-WorkBuddy技能版采用一个合集入口、内部按需路由的结构，安装列表可显示一个合集。请在开放平台选择「技能」，本包不适用于「配置专家」入口。[下载WorkBuddy技能合集包](https://github.com/chuwu57/Chuwu-PR-OS/raw/refs/heads/main/downloads/PROS-05-workbuddy-skill.zip)，上传方式见[WorkBuddy说明](docs/WORKBUDDY.md)。
+WorkBuddy版已适配「配置专家」入口，包含专家配置、Agent入口、头像和原有14项Skill。[下载WorkBuddy上传包](https://github.com/chuwu57/Chuwu-PR-OS/raw/refs/heads/main/downloads/PROS-05-workbuddy.zip)，上传方式见[WorkBuddy说明](docs/WORKBUDDY.md)。
 
 普通材料分析与文稿按实际输入执行；最新事实核验需要联网工具，原始音视频转写需要相应运行依赖。Follow Loop与skill-evolution需要使用者知识库、配置及授权，详见[知识库接入合同](docs/KNOWLEDGE-INTEGRATION.md)。安装不会自动创建定时任务或修改知识库。
 
@@ -49,7 +49,7 @@ WorkBuddy技能版采用一个合集入口、内部按需路由的结构，安�
 
 包含14项专项说明、参考、模板、辅助脚本和所需共享方法。不包含私人原始材料、个人账号来源池、扫描状态、历史运行记录、完整论文语料或初五的完整知识库。
 
-本次分发检查验证包结构、路径、文件指纹和代表辅助脚本；尚未完成本版本在WorkBuddy技能入口的实际解析与导入、全部14项真实业务任务、在线采集和音频转写验证。既有真实任务、受控模拟与静态审读的证据强度不同，不统一包装为效果提升。详见[检查报告](docs/PACKAGE-CHECK.md)。
+本次分发检查验证包结构、路径、文件指纹和代表辅助脚本；尚未完成本版本在WorkBuddy专家入口的实际解析与导入、全部14项真实业务任务、在线采集和音频转写验证。既有真实任务、受控模拟与静态审读的证据强度不同，不统一包装为效果提升。详见[检查报告](docs/PACKAGE-CHECK.md)。
 
 ## 开源与归属
 

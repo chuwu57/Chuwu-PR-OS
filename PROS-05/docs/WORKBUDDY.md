@@ -1,38 +1,19 @@
-# WorkBuddy技能合集：上传入口与调用
+# WorkBuddy上传与调用
 
-## 使用「技能」入口
+## 上传当前压缩包
 
-本包是一个Skill合集，应在WorkBuddy开放平台的「技能」发布入口创建或更新。上传文件：`PROS-05-workbuddy-skill.zip`。ZIP根目录直接包含`SKILL.md`，内部保留14项专项方法与共用资源，不要再套一层目录。
+在当前「配置专家」页面点击「重新上传」，选择`PROS-05-workbuddy.zip`。无需解压或再套一层目录。
 
-如果当前页面标题是「配置专家」，请返回并选择「技能」。专家入口要求`.codebuddy-plugin/plugin.json`、Agent定义及专家展示配置；本Skill包不包含这些文件，不能上传到专家入口。平台报「未找到.codebuddy-plugin/plugin.json」表示上传类型不匹配，处于解析阶段，不是内容审核驳回。
+本包已补齐专家入口所需的`.codebuddy-plugin/plugin.json`、`agents/chuwu-pros-five.md`和512×512头像`avatars/expert.png`，并在清单中注册原有14项Skill。全部专项方法、参考、脚本和共享资料保持原样，MIT许可及第三方署名保留。
 
-上次OS04使用的是Skill合集结构。本次依据旧结构准备了同类包，但此前上传说明没有明确区分专家和技能入口。2026-10-15根据用户的实际报错补充这一说明，并将下载文件名改为明确的`workbuddy-skill`。14项专业方法未因此改变。
+2026-10-15的旧包只有SKILL合集入口，在「配置专家」页面因缺少plugin.json而解析失败。当前同名ZIP已更新为专家格式。此前让用户改选「技能」的说明已撤回；本次修复直接适配用户正在使用的专家上传入口。
 
-## 上传步骤
+## 调用与条件
 
-1. 回到开放平台发布入口，选择「技能」，创建或更新对应技能。
-2. 上传`PROS-05-workbuddy-skill.zip`，无需解压再压缩。不要上传宣传图文ZIP或整个交付目录。
-3. 等待平台解析`SKILL.md`及元数据，再检查显示信息。只有平台实际显示解析成功，才算通过这一步；后续提交与审核状态另行确认。
+专家先读取[总入口](../SKILL.md)和[依赖说明](DEPENDENCIES.md)，按当前任务选择专项。最新事实核验需要宿主联网，原始音视频转录需要相应工具。Follow Loop与Skill进化仅在用户明确调用且满足[知识库接入合同](KNOWLEDGE-INTEGRATION.md)时运行。安装不会自动运行脚本或修改知识库。
 
-原`PROS-05-workbuddy.zip`下载地址作为兼容别名保留，两者内容相同。它也属于技能包，不能用于「配置专家」。
+## 验证范围
 
-## 元数据与运行
+已在本地检查ZIP完整性、隐藏配置目录、专家必填字段、Agent定义、头像规格、14项Skill注册路径、包内链接、文件指纹及独立解包。WorkBuddy平台实际解析与审核结果仍以重新上传后的页面为准。
 
-总入口保留name、display_name、display_name_en、description、description_zh、description_en、version与author。显示名为PROS 05，机器标识为chuwu-pros-05，版本字段为5.0.0。安装列表显示一个合集，内部按任务读取14项专项方法。
-
-示例：
-
-- 「使用PROS 05的press-release，根据这些真实材料写新品通稿，缺少事实保留待补项。」
-- 「使用PROS 05的consumer-research，设计售后体验研究，暂时不要生成研究结果。」
-- 「使用PROS 05的skill-evolution，检查指定Skill能否采用这份反馈，先核对知识库接入条件。」
-
-Follow Loop和Skill进化仍需使用者知识库、配置及授权，见[知识库接入说明](KNOWLEDGE-INTEGRATION.md)。
-
-## 验证边界与官方依据
-
-本次完成本地ZIP、元数据、相对路径与代表脚本检查。用户反馈的专家入口上传已发生解析失败；尚未验证本版本在技能入口实际解析、导入或审核通过。
-
-- [官方技能格式](https://open.workbuddy.cn/docs/skill)：以SKILL.md定义技能。
-- [官方专家格式](https://open.workbuddy.cn/docs/expert)：以.codebuddy-plugin/plugin.json及Agent定义配置专家。
-
-核对日期：2026-10-15。是否选择专家形式属于另一种发布需求，不能仅为消除报错就把Skill合集改为专家或专家团。
+格式依据：[WorkBuddy官方专家文档](https://open.workbuddy.cn/docs/expert)。核对日期：2026-10-15。
